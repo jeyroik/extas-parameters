@@ -1,0 +1,13 @@
+{
+  "name": "jeyroik/extas-parameters",
+  "description": "Extas parameters package",
+  "require": {
+    "jeyroik/extas-base": "2.*",
+    "jeyroik/extas-foundation": "5.*"
+  },
+  "autoload": {
+    "psr-4": {
+      "extas\\": "src/"
+    }
+  }
+}
